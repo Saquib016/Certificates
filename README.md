@@ -20,3 +20,6 @@
 
 <img width="1293" height="892" alt="Screenshot 2026-07-01 233228" src="https://github.com/user-attachments/assets/890a161d-8d52-491f-8278-f74f5596228d" />
 <img width="1291" height="905" alt="Screenshot 2026-07-01 233318" src="https://github.com/user-attachments/assets/b8fc5439-9010-4ad9-8eb7-232012cb715a" />
+--------------------------------------------------------------------------------------
+## Hackathon:
+<img width="1122" height="788" alt="Screenshot 2026-11-12 142015" src="https://github.com/user-attachments/assets/09da50cc-f4ad-49f8-a9c3-70c3eb29e3b3" />
